@@ -1,3 +1,7 @@
+> [!NOTE]
+> This was a fork of Unifier used for Unifier v2 development and is no longer in active development. Development of the v2
+> series will continue on the upstream repository.
+
 <h1 align=center>
   <img width=64 src=https://github.com/UnifierHQ/unifier/assets/41323182/3065245a-28b6-4410-9b07-8b940f4796ae><br>
 Unifier</h1>
